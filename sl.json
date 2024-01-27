@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "urls": [
+    {
+      "name": "Name",
+      "url": "https://..."
+    },
+    {
+      "name": "Name 2",
+      "url": "https://..."
+    },
+    {
+      "name": "Name 3",
+      "url": "https://..."
+    }
+  ]
+}
